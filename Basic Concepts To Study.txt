@@ -1,0 +1,72 @@
+Time and Space Complexity Analysis:
+
+Big O notation, Omega notation, and Theta notation
+Analyzing time and space complexity of algorithms
+Arrays and Strings:
+
+Array manipulation, searching, and sorting algorithms
+Dynamic arrays and amortized analysis
+String manipulation and pattern matching algorithms
+Linked Lists:
+
+Singly linked lists, doubly linked lists, and circular linked lists
+Basic operations, insertion, deletion, and traversal
+Detecting cycles and finding the middle element
+Stacks and Queues:
+
+Stack and queue implementations, applications
+Basic operations, balancing parentheses, and infix-postfix conversion
+Implementing queues using stacks and vice versa
+Trees and Binary Trees:
+
+Basic tree terminology and properties
+Binary tree traversal (in-order, pre-order, post-order)
+Binary search trees, balanced binary trees (AVL, Red-Black), and heaps
+Graphs:
+
+Basic graph terminology, types of graphs
+Graph representations (adjacency matrix, adjacency list)
+Graph traversal (BFS, DFS), shortest paths, and minimum spanning trees
+Hashing:
+
+Hash functions and collision resolution strategies
+Hash tables, handling collisions, and load factor
+Sorting Algorithms:
+
+Bubble sort, selection sort, insertion sort
+Merge sort, quicksort, heapsort
+Comparison-based vs. non-comparison-based sorting
+Searching Algorithms:
+
+Linear search and binary search
+Hash-based searching (hash tables)
+Interpolation search and exponential search
+Dynamic Programming:
+
+Concept of overlapping subproblems and optimal substructure
+Memoization and tabulation approaches
+Solving problems using dynamic programming (fibonacci, knapsack, etc.)
+Greedy Algorithms:
+
+Basic concept of making locally optimal choices
+Applications of greedy algorithms (coin change, scheduling, etc.)
+Divide and Conquer:
+
+Solving problems by breaking them into smaller subproblems
+Examples include merge sort, closest pair, and Strassen's matrix multiplication
+Backtracking:
+
+Concept of systematic trial and error to find solutions
+Examples include N-Queens, Sudoku, and permutation problems
+Bit Manipulation:
+
+Basic bitwise operations (AND, OR, XOR)
+Bitwise manipulation tricks and applications
+Advanced Data Structures:
+
+Trie, Bloom filter, segment tree, Fenwick tree
+Disjoint-set (union-find) data structure
+Algorithmic Paradigms:
+
+Divide and conquer, dynamic programming, greedy algorithms
+Brute force, recursion, iterative approaches
