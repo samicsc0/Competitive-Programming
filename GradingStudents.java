@@ -1,5 +1,3 @@
-package data.structure.and.algorith;
-
 import java.util.ArrayList;
 import java.util.List;
 

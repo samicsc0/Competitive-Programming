@@ -1,7 +1,7 @@
 Time and Space Complexity Analysis:
 
-Big O notation, Omega notation, and Theta notation
-Analyzing time and space complexity of algorithms
+Big O notation, Omega notation, and Theta notation --
+Analyzing time and space complexity of algorithms --
 Arrays and Strings:
 
 Array manipulation, searching, and sorting algorithms
